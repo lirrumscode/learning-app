@@ -1,0 +1,15 @@
+/home/lirrumscode/learningapp/build/all/app/CMakeFiles/learningapp.desktop.dir
+/home/lirrumscode/learningapp/build/all/app/CMakeFiles/learningapp_FILES.dir
+/home/lirrumscode/learningapp/build/all/app/CMakeFiles/edit_cache.dir
+/home/lirrumscode/learningapp/build/all/app/CMakeFiles/rebuild_cache.dir
+/home/lirrumscode/learningapp/build/all/app/CMakeFiles/list_install_components.dir
+/home/lirrumscode/learningapp/build/all/app/CMakeFiles/install.dir
+/home/lirrumscode/learningapp/build/all/app/CMakeFiles/install/local.dir
+/home/lirrumscode/learningapp/build/all/app/CMakeFiles/install/strip.dir
+/home/lirrumscode/learningapp/build/all/app/po/CMakeFiles/learningapp.lirrums.pot.dir
+/home/lirrumscode/learningapp/build/all/app/po/CMakeFiles/edit_cache.dir
+/home/lirrumscode/learningapp/build/all/app/po/CMakeFiles/rebuild_cache.dir
+/home/lirrumscode/learningapp/build/all/app/po/CMakeFiles/list_install_components.dir
+/home/lirrumscode/learningapp/build/all/app/po/CMakeFiles/install.dir
+/home/lirrumscode/learningapp/build/all/app/po/CMakeFiles/install/local.dir
+/home/lirrumscode/learningapp/build/all/app/po/CMakeFiles/install/strip.dir

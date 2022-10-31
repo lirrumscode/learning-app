@@ -1,0 +1,15 @@
+{
+    "name": "learningapp.lirrums",
+    "description": "building app with vanilla javascript and qml",
+    "architecture": "@CLICK_ARCH@",
+    "title": "learningapp",
+    "hooks": {
+        "learningapp": {
+            "apparmor": "learningapp.apparmor",
+            "desktop":  "learningapp.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "lirrums <lirrumscode@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
