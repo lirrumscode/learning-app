@@ -3,7 +3,7 @@
 _This little project is about a serie of projects for the company **LeonidasEsteban** for the role:
 > **Frontend web developer,** and it's inspire in the project:
 <br>
-<img src="https://d1ngjctyujvjjy.cloudfront.net/projects/thumbs/989e5416-886b-46ea-b05d-344e03b34c46/Thumbnail-Learning_technology_wnjLb71.jpg" alt="img">
+<img src="https://i.ibb.co/nj37GrJ/ndice.jpg" alt="img">
 <br>
 
 ## Installation and initialization 🔧
